@@ -2,7 +2,7 @@
 
 # ESG - EcoHero
 
-## ![Logo](./images/logo-git.png)
+## ![Logo](./assets/logo-git.png)
 
 # EcoHero
 
